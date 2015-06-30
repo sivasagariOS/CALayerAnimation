@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>279AEC5A-D60A-48E2-9737-C5A3B23179A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CALayerSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F88CF4506F7731D54E20A9D6D456F73FE28ABDB</key>
+		<string>https://github.com/sivasagariOS/CALayerAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CALayerSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F88CF4506F7731D54E20A9D6D456F73FE28ABDB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sivasagariOS/CALayerAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F88CF4506F7731D54E20A9D6D456F73FE28ABDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F88CF4506F7731D54E20A9D6D456F73FE28ABDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CALayerAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
