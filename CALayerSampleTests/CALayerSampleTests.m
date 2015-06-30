@@ -2,8 +2,8 @@
 //  CALayerSampleTests.m
 //  CALayerSampleTests
 //
-//  Created by Varma Bhupatiraju on 6/29/15.
-//  Copyright (c) 2015 Varma Bhupatiraju. All rights reserved.
+//  Created by sivasagar palakurthy on 6/29/15.
+//  Copyright (c) 2015 sivasagar palakurthy. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
